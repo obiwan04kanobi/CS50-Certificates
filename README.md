@@ -16,9 +16,9 @@ Here are some of the key benefits of taking Harvard's CS50P course:
 If you are interested in learning to program, I highly recommend taking Harvard's CS50P course. It is a great way to get started with programming and learn the basics of Python.
 
 # Certificate
--------------------------------------------------------------------
+
 ![](CS50P.png)
 
 # Shirtificate
--------------------------------------------------------------------
+
 ![](shirtificate.png)
