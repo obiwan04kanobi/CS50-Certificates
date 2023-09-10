@@ -19,6 +19,4 @@ If you are interested in learning to program, I highly recommend taking Harvard'
 
 ![](CS50P.png)
 
-# Shirtificate
-
-![](shirtificate.png)
+_______________________________________________
