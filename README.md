@@ -1,6 +1,6 @@
 # CS50P
 
-**CS50P: Introduction to Programming with Python** is an online course that teaches the basics of programming using the Python language. The course is designed for students with no prior programming experience, and it covers topics such as functions, variables, conditionals, loops, objects, and exceptions. The course also includes hands-on exercises that allow students to practice what they have learned.
+[**CS50P: Introduction to Programming with Python**](https://pll.harvard.edu/course/cs50s-introduction-programming-python) is an online course that teaches the basics of programming using the Python language. The course is designed for students with no prior programming experience, and it covers topics such as functions, variables, conditionals, loops, objects, and exceptions. The course also includes hands-on exercises that allow students to practice what they have learned.
 
 The course is taught by David J. Malan, a professor of computer science at Harvard University. Malan is a well-respected educator and has won numerous awards for his teaching. He is also the creator of the popular CS50 course, which is one of the most popular online computer science courses in the world.
 
